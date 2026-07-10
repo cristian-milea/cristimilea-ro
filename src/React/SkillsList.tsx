@@ -49,24 +49,24 @@ const SkillsList = () => {
 
   const skills = {
     "Web & Backend": [
-      "Full-stack Web — Next.js, NestJS, TypeScript",
-      "Payments & Auth — Stripe, Clerk, Supabase Auth",
+      "Full-stack Web: Next.js, NestJS, TypeScript",
+      "Payments & Auth: Stripe, Clerk, Supabase Auth",
       "Astro / Static Sites",
     ],
     Mobile: [
-      "Native Mobile — Swift/iOS, Kotlin/Android",
-      "Cross-platform Mobile — React Native / Expo",
-      "Embedded/Hardware — Bluetooth BLE, Raspberry Pi",
+      "Native Mobile: Swift/iOS, Kotlin/Android",
+      "Cross-platform Mobile: React Native / Expo",
+      "Embedded/Hardware: Bluetooth BLE, Raspberry Pi",
     ],
     "Cloud, Data & AI": [
-      "AI/ML Integration — Vertex AI, Gemini, AI agents",
-      "Cloud & Infra — GCP, Docker, Cloudflare",
-      "Databases — PostgreSQL, BigQuery, Supabase, Redis",
+      "AI/ML Integration: Vertex AI, Gemini, AI agents",
+      "Cloud & Infra: GCP, Docker, Cloudflare",
+      "Databases: PostgreSQL, BigQuery, Supabase, Redis",
     ],
     "Design & Quality": [
-      "Design Systems — Tailwind, Tamagui, shadcn/ui",
-      "Testing & QA — Jest, Vitest, Maestro E2E",
-      "Open Source — MIT/GPL projects, community tooling",
+      "Design Systems: Tailwind, Tamagui, shadcn/ui",
+      "Testing & QA: Jest, Vitest, Maestro E2E",
+      "Open Source: MIT/GPL projects, community tooling",
     ],
   };
 
